@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Righteous'); 
+
+header{
+	background-color: black;
+}
+
+header h1{
+	font-size: 4em;
+	font-weight: 700;
+	font-family: Verdana, Geneva, sans-serif;
+	margin-bottom: 0;
+	color: white;
+}
+
+header h2{
+	margin-top: 0;
+}
+
+#mainText {
+	font-family: Verdana, Geneva, sans-serif;
+	color: black;
+	font-weight: 500;
+	font-size: 12pt;
+	padding-top: 10px;
+	line-height: 150%;
+}
+
+footer{
+	background-color: #63007a;
+ 	color: white;
+	padding-top: 5px;
+	font-family: Verdana, Geneva, sans-serif;
+}
+
+footer section h3{
+	padding-top: 5px;
+    margin-top: 10px;
+}
+
+h4{
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
